@@ -1,0 +1,8 @@
+{
+  "name": "utils",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:dotkiro/utils.git",
+  "author": "Kiro <dotkiro@gmail.com>",
+  "license": "Apache-2.0"
+}

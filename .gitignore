@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# 自定义
+.DS_Store
+yarn.lock
